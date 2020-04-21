@@ -1,0 +1,16 @@
+{
+  "editor.wordWrap": "on",
+  "editor.accessibilitySupport": "off",
+  "editor.codeInsets": true,
+  "editor.renderLineHighlight": "gutter",
+  "editor.tabCompletion": "on",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "line-thin",
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "files.autoSave": "afterDelay",
+  "files.insertFinalNewline": true,
+  "workbench.editor.closeOnFileDelete": true,
+  "emmet.triggerExpansionOnTab": true,
+  "vetur.format.options.useTabs": true
+}
