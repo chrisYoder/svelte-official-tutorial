@@ -4,7 +4,6 @@
   "editor.codeInsets": true,
   "editor.renderLineHighlight": "gutter",
   "editor.tabCompletion": "on",
-  "editor.cursorSmoothCaretAnimation": true,
   "editor.cursorStyle": "line-thin",
   "editor.fontLigatures": true,
   "editor.formatOnPaste": true,
@@ -12,5 +11,6 @@
   "files.insertFinalNewline": true,
   "workbench.editor.closeOnFileDelete": true,
   "emmet.triggerExpansionOnTab": true,
-  "vetur.format.options.useTabs": true
+  "vetur.format.options.useTabs": true,
+  "editor.cursorBlinking": "solid"
 }

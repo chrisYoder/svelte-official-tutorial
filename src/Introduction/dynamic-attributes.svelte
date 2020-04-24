@@ -7,6 +7,7 @@ let alt = 'Teacup Labrodor';
 
 </style>
 
+
 <h3>Dynamic Attributes</h3>
 <p><em>I can also use "text interpolation" to control element attributes. In the below example I will dynamically add the img src and the alt text</em></p>
 <img src="{src}" alt="{alt}">
