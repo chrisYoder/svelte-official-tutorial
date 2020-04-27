@@ -4,7 +4,7 @@
   import Props from './Props/props.svelte';
   import Logic from './Logic/logic.svelte';
   import Events from './Events/events.svelte';
-import Bindings from './Bindings/Bindings.svelte';
+  import Bindings from './Bindings/Bindings.svelte';
 </script>
 
 <style>
