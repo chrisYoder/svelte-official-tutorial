@@ -1,16 +1,18 @@
 {
   "editor.wordWrap": "on",
   "editor.accessibilitySupport": "off",
-  "editor.codeInsets": true,
-  "editor.renderLineHighlight": "gutter",
   "editor.tabCompletion": "on",
-  "editor.cursorStyle": "line-thin",
-  "editor.fontLigatures": true,
+  "editor.cursorStyle": "line",
   "editor.formatOnPaste": true,
-  "files.autoSave": "afterDelay",
-  "files.insertFinalNewline": true,
   "workbench.editor.closeOnFileDelete": true,
   "emmet.triggerExpansionOnTab": true,
   "vetur.format.options.useTabs": true,
-  "editor.cursorBlinking": "solid"
+  "editor.smoothScrolling": true,
+  "editor.stablePeek": true,
+  "editor.formatOnType": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "files.autoSaveDelay": 1,
+  "markdown.preview.breaks": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "files.autoSave": "afterDelay"
 }

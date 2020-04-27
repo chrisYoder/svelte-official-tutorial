@@ -1,5 +1,5 @@
 body {
-  font-family: 'Philosopher', sans-serif;
+  font-family: "Philosopher", sans-serif;
 }
 
 .container {
@@ -22,4 +22,9 @@ li {
 
 button {
   margin-bottom: 0.75rem;
+}
+
+code {
+  color: #ff3e00;
+  background-color: #d3d3d3;
 }
